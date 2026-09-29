@@ -1,0 +1,44 @@
+{
+  "features": [
+    "Nitrogen",
+    "Phosphorus",
+    "Potassium",
+    "pH",
+    "Rainfall",
+    "Temperature"
+  ],
+  "classes": [
+    "Cotton",
+    "Ginger",
+    "Gram",
+    "Grapes",
+    "Groundnut",
+    "Jowar",
+    "Maize",
+    "Masoor",
+    "Moong",
+    "Rice",
+    "Soybean",
+    "Sugarcane",
+    "Tur",
+    "Turmeric",
+    "Urad",
+    "Wheat"
+  ],
+  "scaler_mean": [
+    95.2354570637119,
+    54.22957063711911,
+    63.511080332409975,
+    6.71398891966759,
+    818.0747922437673,
+    25.773891966759003
+  ],
+  "scaler_scale": [
+    38.09086621562989,
+    16.556593060677613,
+    35.61148487588764,
+    0.6266957183697135,
+    250.64770378846586,
+    5.923840029699509
+  ]
+}

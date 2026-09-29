@@ -1,0 +1,14 @@
+seed: 42
+num_clients: 4
+client_fraction: 1.0
+rounds: 10
+local_epochs: 5
+batch_size: 32
+learning_rate: 0.001
+lstm_units: 64
+dense_units: 64
+sequence_length: 1
+test_size: 0.20
+cloud_holdout_size: 0.20
+weight_decay: 0.0
+num_workers: 0
